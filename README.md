@@ -39,38 +39,20 @@ b.  KCL:
 6.   Record the voltage values shown in the ammeter connected to each resistor.
 7.   Take readings for different values of input voltage and tabulate them. 
 CIRCUIT DIAGRAM:
-
-CIRCUIT DIAGRAM:
-
-
-a.   KVL:
- 
-
-
+a.  KVL:    
+![a1](https://github.com/user-attachments/assets/f1130514-1dbb-49f1-a7d5-65d603506071)
 b.  KCL:
- 
-
+![a2](https://github.com/user-attachments/assets/4af6ff53-4fc1-455e-876f-b99597cabe16)
 Calculation:
-
 a.   KVL:
- 
-
-
+![a](https://github.com/user-attachments/assets/21d4860d-c565-4752-a08f-041ea4c0b2f7)
+ ![g](https://github.com/user-attachments/assets/f8dfb612-8c6f-4eb3-a683-9bf1f4befb76)
 b.  KCL:
-
-
-
-
+ ![a2](https://github.com/user-attachments/assets/69a37b09-cf4b-4ba0-92c6-458c72c4c508)
 Tabulation:
-
 a.   KVL:
- 
-
-
+ ![c](https://github.com/user-attachments/assets/f359f880-4b63-4f98-93d1-14e4cc82580c) 
 b.  KCL:
-
-
-
+![h](https://github.com/user-attachments/assets/2d616200-d4e3-4d84-b730-a6268bb0cfbc)
 RESULT:
-
 Thus, for the given circuit, Kirchhoff’s Laws, (a) KVL and (b) KCL are proved.
